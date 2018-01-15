@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StandaloneTarget>
+    <PythonInterpreter>
+      <Id>Global|PythonCore|3.6</Id>
+    </PythonInterpreter>
+    <WorkingDirectory>C:\Arul\WS</WorkingDirectory>
+    <Script>C:\Arul\WS\testerWS_GUI.py</Script>
+    <Arguments />
+  </StandaloneTarget>
+  <Reports />
+</ProfilingTarget>
